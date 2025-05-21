@@ -34,3 +34,6 @@ Wichtige Pins:
 ## Aufbau
 
 ## Code (Platform IO)
+Damit der Serielle Monitor funktioniert muss USB_CDC aktiviert werden. Dafür müssen die PlatformIo Build Flags angepasst werden.
+
+![alt text](BuildFlags-1.png)
