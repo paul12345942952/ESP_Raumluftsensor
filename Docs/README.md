@@ -7,7 +7,7 @@ Wichtige Pins:
 + Stromversorgung: GND und 3V3
 
 ## Display (0,96 Zoll SSD1306)
-![Display](/Bilder/Display.png)
+![Display](Display.png)
 
 + Ansteuerung über **I²C**
 + Versorgung mit **3.3V-5V**
@@ -16,7 +16,7 @@ Wichtige Pins:
 + Abmessungen: **27mm x 27mm x 4,1mm**
 
 ## Sensor (BME280)
-![Sensor](/Bilder/BME280.png)
+![Sensor](BME280.png)
 
 + Ansteuerung über **I²C**
 + Versorgung mit **3.3V-5V**
@@ -25,7 +25,7 @@ Wichtige Pins:
 + Luftfeuchtigkeit: **0%-100%** ± 3%
 
 ## Schaltung
-![Schaltung](/Bilder/Schaltung.jpg)
+![Schaltung](Schaltung.jpg)
 
 ## PCB
 
