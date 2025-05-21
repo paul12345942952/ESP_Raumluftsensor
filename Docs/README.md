@@ -1,6 +1,6 @@
 # ESP_Raumluftsensor
 ## Pinout des ESP32 C3
-![Pinout](/Bilder/esp32-c3-supermini_pinout.png)
+![Pinout](Pinout.png)
 Wichtige Pins:
 + SDA: GPIO 8
 + SCL: GPIO 9
