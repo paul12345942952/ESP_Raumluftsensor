@@ -33,4 +33,4 @@ Wichtige Pins:
 
 ## Aufbau
 
-## Code
+## Code (Platform IO)
