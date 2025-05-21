@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=ESP32-C3 NewDesignator=ESP32
+Change Component Designator: OldDesignator=Sensor NewDesignator=Sensor-BMP280
+Added Member To Class: ClassName=Raumluftsensor Member=Component Sensor-BMP280 Header 4

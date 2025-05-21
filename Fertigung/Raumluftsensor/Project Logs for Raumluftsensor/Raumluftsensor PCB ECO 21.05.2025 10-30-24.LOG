@@ -1,0 +1,18 @@
+Change Component Comment : Designator=U? Old Comment=ESP32-C3_SUPERMINI_TH New Comment=ESP32-C3_SUPERMINI
+Change Component Designator: OldDesignator=U? NewDesignator=ESP32
+Added Pin To Net: NetName=NetDisplay-SH1106_1 Pin=Display-SH1106-1
+Added Pin To Net: NetName=NetDisplay-SH1106_1 Pin=ESP32-8
+Added Pin To Net: NetName=NetDisplay-SH1106_1 Pin=Sensor-BMP280-4
+Added Net: Name=NetDisplay-SH1106_1
+Added Pin To Net: NetName=NetDisplay-SH1106_2 Pin=Display-SH1106-2
+Added Pin To Net: NetName=NetDisplay-SH1106_2 Pin=ESP32-9
+Added Pin To Net: NetName=NetDisplay-SH1106_2 Pin=Sensor-BMP280-3
+Added Net: Name=NetDisplay-SH1106_2
+Added Pin To Net: NetName=NetDisplay-SH1106_3 Pin=Display-SH1106-3
+Added Pin To Net: NetName=NetDisplay-SH1106_3 Pin=ESP32-3.3
+Added Pin To Net: NetName=NetDisplay-SH1106_3 Pin=Sensor-BMP280-1
+Added Net: Name=NetDisplay-SH1106_3
+Added Pin To Net: NetName=NetDisplay-SH1106_4 Pin=Display-SH1106-4
+Added Pin To Net: NetName=NetDisplay-SH1106_4 Pin=ESP32-G
+Added Pin To Net: NetName=NetDisplay-SH1106_4 Pin=Sensor-BMP280-2
+Added Net: Name=NetDisplay-SH1106_4
