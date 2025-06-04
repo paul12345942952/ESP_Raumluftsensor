@@ -7,9 +7,18 @@
 
 Adafruit_BME280 bme;
 
+void PrintValues()
+{
+  Serial.printf("Temperatur = %i°C\n",bme.readTemperature());
+  Serial.printf("Luftdruck = %ihPa\n",bme.readPressure()/100);
+  Serial.printf("Seehöhe = %im\n", bme.readAltitude(SEALEVELPRESSURE_HPA));
+  Serial.printf("Luftfeuchtigkeit = %i%\n\n", bme.readHumidity());
+}
+
 void setup() 
 {
   Serial.begin(9600);
+  Serial.println("START");
 }
 
 void loop() 
@@ -23,10 +32,3 @@ void loop()
   delay(500);
 }
 
-void PrintValues()
-{
-  Serial.printf("Temperatur = %i°C",bme.readTemperature());
-  Serial.printf("Luftdruck = %ihPa",bme.readPressure()/100);
-  Serial.printf("Seehöhe = %im", bme.readAltitude(SEALEVELPRESSURE_HPA));
-  Serial.printf("Luftfeuchtigkeit = %i%", bme.readHumidity());
-}

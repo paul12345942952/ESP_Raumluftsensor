@@ -29,7 +29,7 @@ Wichtige Pins:
 
 ## PCB
 
-## Gehäuse
+### Gehäuse
 
 ## Aufbau
 
