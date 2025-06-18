@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetDisplay-SH1106_3 Pin=ESP32-3.3
+Removed Pin From Net: NetName=NetDisplay-SH1106_3 Pin=Sensor-1
+Change Component Designator: OldDesignator=Sensor NewDesignator=Sensor-BMP280
+Added Pin To Net: NetName=NetDisplay-SH1106_3 Pin=ESP32-5V
+Added Pin To Net: NetName=NetESP32_3.3 Pin=ESP32-3.3
+Added Pin To Net: NetName=NetESP32_3.3 Pin=Sensor-BMP280-1
+Added Net: Name=NetESP32_3.3
