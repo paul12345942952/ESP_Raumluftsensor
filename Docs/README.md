@@ -28,12 +28,13 @@ Wichtige Pins:
 ![Schaltung](Schaltung.jpg)
 
 ## PCB
-
-### Gehäuse
-
+![2D](PCB1.png)
+![3D](PCB2.png)
+## Gehäuse
+![Gehäuse](Gehaeuse.jpg)
 ## Aufbau
 
 ## Software (Platform IO)
 Damit der Serielle Monitor funktioniert muss USB_CDC aktiviert werden. Dafür müssen die PlatformIo Build Flags angepasst werden.
 
-![alt text](BuildFlags-1.png)
+![Build Flags](BuildFlags-1.png)
